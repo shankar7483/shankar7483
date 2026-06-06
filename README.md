@@ -1,46 +1,69 @@
-# Hi there, I'm Shiva Shankara Varaprasad! 👋
+# 👋 Hi there, I'm Shiva Shankara Varaprasad!
 
-Computer Science Engineering undergraduate passionate about building scalable backend systems, full-stack applications, and network routing optimizations. 
+<p align="left">
+  <img src="https://komarev.com" alt="Profile views" />
+</p>
 
-- 📍 Bengaluru, Karnataka, India
-- 🎓 B.E. in Computer Science & Engineering (2022 - 2026)
-- 🚀 Open to Software Engineering & Backend Roles
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Programming Languages**
-![Java](https://shields.io) ![Python](https://shields.io) ![JavaScript](https://shields.io) ![SQL](https://shields.io) ![PHP](https://shields.io)
-
-**Databases & Core Development**
-![MySQL](https://shields.io) ![MongoDB](https://shields.io) ![Git](https://shields.io) ![Linux](https://shields.io)
-
-**Currently Diving Into 📚**
-![Spring Boot](https://shields.io) ![React](https://shields.io) `REST APIs`
+Computer Science Engineering undergraduate passionate about full-stack web application development, scalable backend systems, and network routing optimizations.
 
 ---
 
-### 📁 Core Projects
+### 🛠️ When I code, I rely on
 
-#### 🏥 Smart Healthcare SDN Framework (Python, ML, Tkinter)
-- Built an IoT-based healthcare tracking network utilizing ESP32 microcontrollers and sensors.
-- Implemented ML-driven routing protocol optimization inside an SDN controller to reduce jitter and latency.
+**Languages & Databases**
+<nobr>
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="SQL" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://shields.io" alt="PHP" />
+</nobr>
 
-#### ✈️ AEROCONN — Airline Management System (Java, Swing, MySQL)
-- Developed a full desktop GUI system handling flight schedules, ticketing, and passenger data tracking.
-- Structured a clean database normalized to 3NF across 8+ operational entities.
-
-#### 🏨 Hotel Reservation System (PHP, MySQL, HTML5/CSS3)
-- Engineered a web platform automating booking configurations and secure session validations for 50+ room categories.
+**Frameworks, Tools & Platforms**
+<nobr>
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Spring Boot" />
+  <img src="https://shields.io" alt="React" />
+</nobr>
 
 ---
 
-### 📊 GitHub Stats
-![Shankar's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+### 🚀 Featured Software Projects
+
+* 🏥 **[Smart Healthcare SDN Framework](https://github.com):** IoT vital-tracking system optimized with an ML-driven path selection routing controller.
+* ✈️ **AEROCONN — Airline Management System:** Multi-threaded desktop client featuring localized database architecture designed in 3NF.
+* 🏨 **Hotel Reservation System:** Automated guest booking ecosystem written with secure session-based authentication architectures.
+
+If you like what I build, feel free to support my coffee fund! ☕
+<br/>
+<a href="https://buymeacoffee.com" target="_blank">
+  <img src="https://buymeacoffee.com" alt="Buy Me A Coffee" width="150" />
+</a>
+
+---
+
+### 🔥 My GitHub contributions summary
+
+<p align="left">
+  <img src="https://herokuapp.com" alt="Shankar's Streak Stats" />
+</p>
+
+---
+
+### 📊 Detailed Engineering Stats
+
+<p align="left">
+  <img src="https://vercel.app" width="49%" alt="Shankar's GitHub Stats" />
+  <img src="https://vercel.app" width="49%" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📬 Connect With Me
-- 📧 Email: shivashankarvaraprasad78@gmail.com
+- 📧 **Email:** shivashankarvaraprasad78@gmail.com
+- 💼 **LinkedIn:** [Add your LinkedIn profile link here]
