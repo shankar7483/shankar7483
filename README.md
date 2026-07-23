@@ -41,9 +41,7 @@ Computer Science Engineering undergraduate passionate about full-stack web appli
 
 If you like what I build, feel free to support my coffee fund! ☕
 <br/>
-<a href="https://buymeacoffee.com" target="_blank">
-  <img src="https://buymeacoffee.com" alt="Buy Me A Coffee" width="150" />
-</a>
+
 
 ---
 
