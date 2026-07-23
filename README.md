@@ -8,7 +8,7 @@ Computer Science Engineering undergraduate passionate about full-stack web appli
 
 ### 🛠️ When I code, I rely on
 
-**Languages & Databases**
+**Languages & Databases:**
 Java
 Javascrip
 SQL
@@ -17,7 +17,7 @@ HTML CSS
 
 
 
-**Frameworks, Tools & Platforms**
+**Frameworks, Tools & Platforms:**
 <nobr>
  Git
  GitHub
