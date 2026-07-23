@@ -9,9 +9,9 @@ Computer Science Engineering undergraduate passionate about full-stack web appli
 ### 🛠️ When I code, I rely on
 
 **Languages & Databases**
-"Java" 
-"Javascript"
-"SQL"
+Java
+Javascrip
+SQL
 MongoDB
 HTML CSS
 
@@ -19,13 +19,13 @@ HTML CSS
 
 **Frameworks, Tools & Platforms**
 <nobr>
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="VS Code" />
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Spring Boot" />
-  <img src="https://shields.io" alt="React" />
-</nobr>
+ Git
+ GitHub
+VS Code
+ Spring Boot
+ React
+
+
 
 ---
 
