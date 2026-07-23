@@ -9,15 +9,13 @@ Computer Science Engineering undergraduate passionate about full-stack web appli
 ### 🛠️ When I code, I rely on
 
 **Languages & Databases**
-<nobr>
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="SQL" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="PHP" />
-</nobr>
+"Java" 
+"Javascript"
+"SQL"
+MongoDB
+HTML CSS
+
+
 
 **Frameworks, Tools & Platforms**
 <nobr>
