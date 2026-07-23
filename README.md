@@ -1,8 +1,6 @@
 # 👋 Hi there, I'm Shiva Shankara Varaprasad!
 
-<p align="left">
-  <img src="https://komarev.com" alt="Profile views" />
-</p>
+
 
 Computer Science Engineering undergraduate passionate about full-stack web application development, scalable backend systems, and network routing optimizations.
 
