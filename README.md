@@ -35,26 +35,9 @@ VS Code
 * ✈️ **AEROCONN — Airline Management System:** Multi-threaded desktop client featuring localized database architecture designed in 3NF.
 * 🏨 **Hotel Reservation System:** Automated guest booking ecosystem written with secure session-based authentication architectures.
 
-If you like what I build, feel free to support my coffee fund! ☕
+
 <br/>
 
-
----
-
-### 🔥 My GitHub contributions summary
-
-<p align="left">
-  <img src="https://herokuapp.com" alt="Shankar's Streak Stats" />
-</p>
-
----
-
-### 📊 Detailed Engineering Stats
-
-<p align="left">
-  <img src="https://vercel.app" width="49%" alt="Shankar's GitHub Stats" />
-  <img src="https://vercel.app" width="49%" alt="Top Languages" />
-</p>
 
 ---
 
